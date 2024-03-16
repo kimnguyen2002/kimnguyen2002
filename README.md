@@ -1,4 +1,5 @@
-### Hi there 👋
+### [Kim Nguyen] (https://kimnguyen2002.github.io/Portfolio/) - AI Enthusiast
+As a self-taught Machine Learning, I've developed a keen interest in the areas of AI, Deep Learning and Neural Networks. My primary focus is Bioinformatics, which could deliver tangible value and make a meaningful impact at every stage in both academia and industry.
 
 <!--
 **kimnguyen2002/kimnguyen2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
