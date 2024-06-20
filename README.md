@@ -1,4 +1,4 @@
-### [Kim Nguyen](https://kimnguyen2002.github.io/Portfolio/) - Bioinformatics Enthusiast
+### [Kim Nguyen](https://kimnguyen2002.github.io/Portfolio/) - Bioinformatics Enthusiast 🧬
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0E76A8?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kimnguyen2002/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=Google%20Chrome&logoColor=white)](https://kimnguyen2002.github.io/Portfolio/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ffffff?style=flat&logo=Instagram&logoColor=red)](https://www.instagram.com/dasci.ai/)
