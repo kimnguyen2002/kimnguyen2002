@@ -1,5 +1,9 @@
-### [Kim Nguyen](https://kimnguyen2002.github.io/Portfolio/) - AI Enthusiast
-As a self-taught Data Science and Machine Learning, I've developed a keen interest in creating solutions that deliver tangible value and make a meaningful impact at every stage. My primary focus is now on Bioinformatics, specifically in genetics, which is essential for real-word application.
+### [Kim Nguyen](https://kimnguyen2002.github.io/Portfolio/) - Bioinformatics Enthusiast
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0E76A8?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kimnguyen2002/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ffffff?style=flat&logo=Instagram&logoColor=red)](https://www.instagram.com/dasci.ai/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat&logo=Google%20Chrome&logoColor=white&labelColor=gray)](https://kimnguyen2002.github.io/Portfolio/)
+
+As a self-taught Data Science and Machine Learning, I've developed a keen interest in creating solutions that deliver tangible value and make a meaningful impact at every stage. My primary focus is now on Bioinformatics, specifically in genetics, which is essential for real-word application and medical system.
 
 <!--
 **kimnguyen2002/kimnguyen2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
